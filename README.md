@@ -3,3 +3,4 @@ This is a repository in which I'm saving my exersises in Softuni Funddamentals c
 
 First topic - Basic Syntax
 Second topic - Data Types and Variables
+Third Topic - HTTP Basics
