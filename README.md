@@ -5,3 +5,5 @@ First topic - Basic Syntax <br/>
 Second topic - Data Types and Variables <br/>
 Third Topic - HTTP Basics <br/>
 Fourth Topic - Lists Basic <br/>
+Fifth Topic - Functions <br/>
+Sixth Topic - Software Dev Concepts part 1 (no code) <br/>
