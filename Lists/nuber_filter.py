@@ -13,7 +13,7 @@ if command == "even" :
     for i in range (len(all_nums_lst)) :
         if all_nums_lst[i] % 2 == 0 :
             filtered_nums_lst.append(all_nums_lst[i])
-        else: 
+        else:
             continue
     print(filtered_nums_lst)
 
