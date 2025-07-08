@@ -1,5 +1,4 @@
-# Softuni-Funadamentals-exercises
-This is a repository in which I'm saving my exersises in Softuni Funddamentals course .
+# Softuni Fundamentals course - Python
 
 First topic - Basic Syntax <br/>
 Second topic - Data Types and Variables <br/>
